@@ -1,7 +1,5 @@
-const Invoices  = () => {
-    return(
-        <div>Invoices</div>
-    )
-}
+const Invoices = () => {
+  return <div>Invoices</div>;
+};
 
-export default Invoices
+export default Invoices;
